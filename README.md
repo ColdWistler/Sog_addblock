@@ -1,5 +1,5 @@
 # spotify-adblock
-Spotify adblocker for Linux (macOS untested) that works by wrapping `getaddrinfo` and `cef_urlrequest_create`. It blocks requests to domains that are not on the allowlist, as well as URLs that are on the denylist.
+Spotify adblocker for Linux (Windows untested) that works by wrapping `getaddrinfo` and `cef_urlrequest_create`. It blocks requests to domains that are not on the allowlist, as well as URLs that are on the denylist.
 
 ### Notes
 * This **does not** work with the snap Spotify package.
