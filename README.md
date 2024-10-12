@@ -5,7 +5,7 @@ Spotify adblocker for Linux (Windows untested) that works by wrapping `getaddrin
 * This **does not** work with the snap Spotify package.
 * This **might not** work with the Flatpak Spotify package, depending on your system's shared libraries' versions.
 * On Debian-based distributions (e.g. Ubuntu), the Debian Spotify package can be installed by following the instructions at the bottom of [this page](https://www.spotify.com/us/download/linux/). *(recommended)*
------
+------
 ## Build
 Prerequisites:
 * Git
